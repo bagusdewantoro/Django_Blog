@@ -1,2 +1,1 @@
-username = admin
-password = guitarra1
+Django Blog from Corey Schafer tutorial on youtube.
